@@ -7,8 +7,8 @@
    ```sudo pacman -S fastfetch alacritty```
 2) ```git clone https://github.com/magnumqwe/dotfiles.git ~/dotfiles```
 3) Edit arch fastfetch:
-   ```cp ~/dotfiles/arch```
+   ```cp ~/dotfiles/arch ~/.config/fastfetch/arch```
 4) Copy bash: ```cp ~/dotfiles/.bashrc ~/.bashrc```
 5) Copy alacritty:
-   ```mkdir -p ~/.config/alacritty```
-   ```cp ~/dotfiles/alacritty.toml ~/.config/alacritty/alacritty.toml```
+```mkdir -p ~/.config/alacritty
+cp ~/dotfiles/alacritty.toml ~/.config/alacritty/alacritty.toml```
