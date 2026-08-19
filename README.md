@@ -3,5 +3,13 @@
 <img width="1032" height="497" alt="Снимок экрана_20260819_215129" src="https://github.com/user-attachments/assets/022c972e-70b7-4739-8e54-d43657b2d84b" />
 
 -------------------------------------------------------------------------------------------- APPLY ---------------------------------------------------------------------------------------------
-1) Install alacritty if don't installed:
-   ``` sudo pacman -S alacritty```
+1) Install the necessary programs:
+   ```pacman -S fastfetch```
+   ```pacman -S alacritty```
+2) ```git clone https://github.com/magnumqwe/dotfiles.git ~/dotfiles```
+3) Edit arch fastfetch:
+   ```cp ~/dotfiles/arch```
+4) Copy bash: ```copy ~/dotfiles/.bashrc ~/.bashrc```
+5) Copy alacritty:
+   ```mkdir -p ~/.config/alacritty```
+   ```cp ~/dotfiles/alacritty.toml ~/.config/alacritty/alacritty.toml```
