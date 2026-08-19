@@ -1,2 +1,2 @@
-# termina-_for_arch
+# terminal_for_arch
 🌠 simple Alacritty + Bash terminal config 🌠
