@@ -4,11 +4,11 @@
 
 -------------------------------------------------------------------------------------------- APPLY ---------------------------------------------------------------------------------------------
 1) Install the necessary programs:
-   ```pacman -S fastfetch alacritty```
+   ```sudo pacman -S fastfetch alacritty```
 2) ```git clone https://github.com/magnumqwe/dotfiles.git ~/dotfiles```
 3) Edit arch fastfetch:
    ```cp ~/dotfiles/arch```
-4) Copy bash: ```copy ~/dotfiles/.bashrc ~/.bashrc```
+4) Copy bash: ```cp ~/dotfiles/.bashrc ~/.bashrc```
 5) Copy alacritty:
    ```mkdir -p ~/.config/alacritty```
    ```cp ~/dotfiles/alacritty.toml ~/.config/alacritty/alacritty.toml```
