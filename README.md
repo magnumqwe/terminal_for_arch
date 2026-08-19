@@ -4,8 +4,7 @@
 
 -------------------------------------------------------------------------------------------- APPLY ---------------------------------------------------------------------------------------------
 1) Install the necessary programs:
-   ```pacman -S fastfetch```
-   ```pacman -S alacritty```
+   ```pacman -S fastfetch alacritty```
 2) ```git clone https://github.com/magnumqwe/dotfiles.git ~/dotfiles```
 3) Edit arch fastfetch:
    ```cp ~/dotfiles/arch```
