@@ -30,3 +30,5 @@
    mkdir -p ~/.config/alacritty
    cp ~/dotfiles/alacritty.toml ~/.config/alacritty/alacritty.toml
 ```
+###If you need a frame for the terminal:
+- Window border is disabled by default (as I use it). To enable, uncomment the border section in `~/.config/alacritty/alacritty.toml`.
