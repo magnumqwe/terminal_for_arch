@@ -7,7 +7,8 @@
 
 1. Install the necessary programs:
 ```bash
-   sudo pacman -S fastfetch alacritty
+   sudo pacman -S alacritty neovim fastfetch git unzip unrar p7zip zstd ttf-jetbrains-mono-nerd ttf-fira-code-nerd
+
 ```
 
 2. Clone:
