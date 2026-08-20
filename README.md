@@ -13,7 +13,7 @@
 
 2. Clone:
 ```bash
-   git clone https://github.com/magnumqwe/dotfiles.git ~/dotfiles
+   git clone https://github.com/magnumqwe/terminal_for_arch.git ~/dotfiles
 ```
 
 3. Edit arch fastfetch:
