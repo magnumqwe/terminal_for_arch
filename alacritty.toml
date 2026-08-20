@@ -1,3 +1,8 @@
+[window]
+decorations = "none" # uncomment if using WM
+opacity = 0.9
+blur = true
+
 [[colors.indexed_colors]]
 color = "#FAB387"
 index = 16
@@ -96,11 +101,6 @@ style = "Regular"
 [font.offset]
 x = 0
 y = 0
-
-[window]
-decorations = "none" # uncomment if using WM
-opacity = 0.9
-blur = true
 
 [window.dimensions]
 columns = 100
