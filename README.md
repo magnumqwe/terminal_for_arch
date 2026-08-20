@@ -13,23 +13,23 @@
 
 2. Clone:
 ```bash
-   git clone https://github.com/magnumqwe/terminal_for_arch.git ~/dotfiles
+   git clone https://github.com/magnumqwe/terminal_for_arch.git ~/termfor_arch
 ```
 
 3. Edit arch fastfetch:
 ```bash
-   cp ~/dotfiles/arch ~/.config/fastfetch/arch
+   cp ~/termfor_arch/arch ~/.config/fastfetch/arch
 ```
 
 4. Copy bash:
 ```bash
-   cp ~/dotfiles/.bashrc ~/.bashrc
+   cp ~/termfor_arch/.bashrc ~/.bashrc
 ```
 
 5. Copy alacritty:
 ```bash
    mkdir -p ~/.config/alacritty
-   cp ~/dotfiles/alacritty.toml ~/.config/alacritty/alacritty.toml
+   cp ~/termfor_arch/alacritty.toml ~/.config/alacritty/alacritty.toml
 ```
 ### If you need a frame for the terminal:
 - Window border is disabled by default (as I use it). To enable, uncomment the border section in `~/.config/alacritty/alacritty.toml`.
